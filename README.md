@@ -38,5 +38,21 @@ Aim-To simulate it and try to add some functions (Arithmetic).
 ### 8 bit computer running fibonacci series code:
 ![](https://github.com/ninja3011/8bitcomputer/blob/master/Logisim_%20main%20of%208bitcomputer%202020-06-13%2010-27-48.gif)
 
+### Future Work:
+  <ul>
+  <li>Completing the Multiplication</li>
+  <li>Enhancing the computer</li>
+  </ul>
+  
+### Troubleshooting:
+  <ul>
+  <li>Identification for jump</li>
+  </ul>
+
+### Contributors:
+<ol>
+  <li>Ninad Jangle</li>
+  <li>Aaditya Mali</li>
+</ol>
 
 
