@@ -13,7 +13,7 @@ Resources to be downloaded:
 - [eeprom inserts txt files](https://github.com/ninja3011/8bitcomputer/blob/master/rom_inserts.zip)
 - [handwritten notes](https://github.com/ninja3011/8bitcomputer/blob/master/assets.zip)
 - [full project report](https://github.com/ninja3011/8bitcomputer/blob/master/8bitcomputer.docx)
-
+- [working video](https://drive.google.com/file/d/1I9pkEEhcmzGA9qCnPIdLh6NQYxmB5jP2/view?usp=sharing)
 
 8 bit computer running fibonacci series code:
 ![](https://github.com/ninja3011/8bitcomputer/blob/master/Logisim_%20main%20of%208bitcomputer%202020-06-13%2010-27-48.gif)
