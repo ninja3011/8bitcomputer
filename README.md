@@ -1,10 +1,20 @@
-## 8bitcomputer
-#Eklavya project to simulate and build Ben Eaters 8 Bit Computer
+# 8bitcomputer
+## Eklavya project to simulate and build Ben Eaters 8 Bit Computer
 
-8 bit computer :
+## Table of contents:
+  1. [introduction](intro.md)
+  2. Photo of working computer
+  3. Resources to be downloaded
+  4. Usage
+  5. Contributers
+  6. Acknowledgement
+
+
+
+### 8 bit computer :
 ![](https://github.com/ninja3011/8bitcomputer/blob/master/asds.PNG)
 
-Resources to be downloaded:
+### Resources to be downloaded:
 
 - [logism circuit](https://github.com/ninja3011/8bitcomputer/blob/master/8bitcomputer.circ)
 - [assets](https://github.com/ninja3011/8bitcomputer/blob/master/assets.zip)
@@ -15,7 +25,7 @@ Resources to be downloaded:
 - [full project report](https://github.com/ninja3011/8bitcomputer/blob/master/8bitcomputer.docx)
 - [working video](https://drive.google.com/file/d/1I9pkEEhcmzGA9qCnPIdLh6NQYxmB5jP2/view?usp=sharing)
 
-8 bit computer running fibonacci series code:
+### 8 bit computer running fibonacci series code:
 ![](https://github.com/ninja3011/8bitcomputer/blob/master/Logisim_%20main%20of%208bitcomputer%202020-06-13%2010-27-48.gif)
 
 
