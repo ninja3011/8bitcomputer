@@ -13,6 +13,16 @@
 
 ### 8 bit computer :
 ![](https://github.com/ninja3011/8bitcomputer/blob/master/asds.PNG)
+We tried to simulate An 8 bit computer which was mad by Ben eeater.
+Aim-To simulate it and try to add some functions (Arithmetic).
+
+### Tech stack:
+  For this project we used-
+    <ul>
+  <li><a href='https://logisim.en.uptodown.com/windows'>Logisim</a></li>
+    </ul>
+    
+### Recordings and Demos:
 
 ### Resources to be downloaded:
 
