@@ -55,4 +55,8 @@ Aim-To simulate it and try to add some functions (Arithmetic).
   <li>Aaditya Mali</li>
 </ol>
 
+### Acknowledgement and Resources:
+<ul>
+  <li>SRA VJTI Eklavya 2020</li>
+</ul>
 
