@@ -6,8 +6,8 @@
   2. [Photo of working computer](#8-bit-computer)
   3. [Resources to be downloaded](#resources-to-be-downloaded)
   4. [Usage](#recordings-and-demos)
-  5. Contributers(#contributors)
-  6. Acknowledgement(#acknowledgement-and-resources)
+  5. [Contributers](#contributors)
+  6. [Acknowledgement](#acknowledgement-and-resources)
 
 
 
