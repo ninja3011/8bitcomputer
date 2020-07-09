@@ -3,7 +3,7 @@
 
 ## Table of contents:
   1. [introduction](intro.md)
-  2. [Photo of working computer](doc:Readme#section-8-bit-computers)
+  2. [Photo of working computer](doc:README.md#section-8-bit-computers)
   3. Resources to be downloaded
   4. Usage
   5. Contributers
