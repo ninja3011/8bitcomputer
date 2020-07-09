@@ -5,7 +5,7 @@
   1. [introduction](intro.md)
   2. [Photo of working computer](#8-bit-computer)
   3. [Resources to be downloaded](#resources-to-be-downloaded)
-  4. Usage
+  4. [Usage](#recordings-and-demos)
   5. Contributers
   6. Acknowledgement
 
@@ -21,8 +21,6 @@ Aim-To simulate it and try to add some functions (Arithmetic).
     <ul>
   <li><a href='https://logisim.en.uptodown.com/windows'>Logisim</a></li>
     </ul>
-    
-### Recordings and Demos:
 
 ### Resources to be downloaded:
 
@@ -34,6 +32,8 @@ Aim-To simulate it and try to add some functions (Arithmetic).
 - [handwritten notes](https://github.com/ninja3011/8bitcomputer/blob/master/assets.zip)
 - [full project report](https://github.com/ninja3011/8bitcomputer/blob/master/8bitcomputer.docx)
 - [working video](https://drive.google.com/file/d/1I9pkEEhcmzGA9qCnPIdLh6NQYxmB5jP2/view?usp=sharing)
+
+### Recordings and Demos:
 
 ### 8 bit computer running fibonacci series code:
 ![](https://github.com/ninja3011/8bitcomputer/blob/master/Logisim_%20main%20of%208bitcomputer%202020-06-13%2010-27-48.gif)
